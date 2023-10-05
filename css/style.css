@@ -39,6 +39,7 @@ header{
 	font-weight: 600;
 	letter-spacing: 1px;
 	color: var(--bg-color);
+	
 }
 .navbar{
 	display:flex;
@@ -329,6 +330,8 @@ header.sticky{
 	color: var(--bg-color);
 	top: 6px;
 	right: 6px;
+	margin-top: 10px;
+	margin-right: 10px;
 	cursor: pointer;
 }
 
@@ -569,5 +572,6 @@ div p{
 
 	background-image: url(im.jpg);
 }
+
 
 
